@@ -2,7 +2,7 @@ package Exceptions;
 
 public class finallyKeyword {
     public static void main(String[] args) {
-        System.out.println(divide());
+        System.out.println(divide(1,3));
     }
 
     public static int divide(int a, int b){
