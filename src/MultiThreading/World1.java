@@ -1,6 +1,6 @@
 package MultiThreading;
 
-public class World1 extends Thread{
+public class World1 extends Thread {
     //Method to create a thread
     @Override
     //RUNNING

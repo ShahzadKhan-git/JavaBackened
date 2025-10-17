@@ -18,4 +18,7 @@ public class World2 implements Runnable{
             System.out.println("Hello");
         }
     }
+    //Runnable method is used when you have to extend the other classes than Thread
+    //class A extends B , Thread (Not acceptable in java)
+    //Class A extends B implements Runnable (This is best to use when class is extending other class)
 }
